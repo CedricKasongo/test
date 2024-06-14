@@ -1,0 +1,105 @@
+img{
+    height:50px;
+    width:50px;
+}
+/*this is how you comment in css */
+
+[11:01] Timothy Jones
+#submenu{
+    position:fixed;
+    right:8px;
+    background-color: darkblue;
+    width:125px;
+}
+ 
+#submenu a{
+    color:goldenrod;
+    text-decoration: none;
+    font-size: 12px;
+    margin-left: 1%;
+}
+ 
+#submenu a:hover{
+    background-color:goldenrod;
+    color:aliceblue;
+    border-radius: 5%;
+}
+/*this is how you comment in css*/
+/*
+div{
+    margin-top: 20%;
+}
+     */
+header{
+    background-color: rgb(214, 245, 175);
+    color:goldenrod;
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    z-index:999999999999999999999999999999;
+}
+ /*.btn {
+    padding:10px;
+    color: white;
+    
+ }*/
+
+ .btn1{
+    display:inline;
+    background-color: lightgreen;
+    margin:50px;
+    font-size: 20px;
+    border-radius: 12px;
+    padding:3px 40px;
+    width:125px;
+ }
+
+ .btn2{
+    display:inline;
+    background-color:lightgreen;
+    margin:50px;
+    font-size: 20px;
+    border-radius: 12px;
+    padding:3px 40px;
+    width:125px;
+ }
+ .btn3{
+    display:inline;
+    background-color: lightgreen;
+    margin:50px;
+    font-size: 20px;
+    border-radius: 12px;
+    padding:3px 40px;
+    width:125px;
+ }
+
+h1{
+    display: inline;
+    margin-left: 10%;
+}
+ 
+header a{
+    color:black;
+    text-decoration: none;
+    font-size: 12px;
+    margin-left: 1%;
+}
+ 
+header a:hover{
+    background-color:goldenrod;
+    color:aliceblue;
+    border-radius: 5%;
+}
+
+nav{
+    display: inline;
+    margin-left: 20%;
+}
+/* flex box lesson*/
+
+.container{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content:space-evenly;
+}

@@ -1,0 +1,16 @@
+:root{
+    --blue: rgb(63, 132, 229);
+    --red: #b33951;
+    --margin: 10px;
+    --padding: 10px
+    --sandstorm:#f6ca98;
+    --complex: 10px 50px blue;
+
+}
+.one{
+    background-color:(--color-one) ;
+    color: var(--color-two);
+    margin: var(--margin);
+    padding: var(--pading);
+    border: var(solid);
+}

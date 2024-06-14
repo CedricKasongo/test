@@ -1,0 +1,23 @@
+body{
+    color:rgb(28, 80, 95);
+background-color: rgb(216, 238, 247);
+font-family: cursive;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#example {
+    color: firebrick;
+    font-family: "DM Serif Text", serif;
+}
+
+.paragraph {
+    position: absolute;
+    top: 0;
+    right:0;
+    font-family: "DM Serif Text", serif;
+    border: 1px solid black;
+    padding: 50px 30px 50px 50px;
+    background-color: white;
+}
